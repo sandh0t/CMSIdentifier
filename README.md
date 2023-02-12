@@ -15,7 +15,6 @@ This tool is designed to identify the full stack of a given URL or a list of URL
 This Tool works with Python version 2.x on any platform
 
 ```
-
 python2 -m pip install -r requirements.txt
 ```
 
@@ -37,7 +36,6 @@ To scan a list of URLs
 
 ```
 python2 cms_identifier_v2.0.py -l targets.txt
-
 ```
 
 To scan a list of URLs, and save to a normal Output
