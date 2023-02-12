@@ -50,6 +50,8 @@ To scan a list of URLs, and save to an Excel file
 python2 cms_identifier_v2.0.py -l targets.txt -x
 ```
 
+![image](./img/2.png)
+
 
 # Background
 This tool was developed in response to a manual process that was time-consuming and repetitive. The manual process consisted of manually researching different techniques for identifying CMS and technologies, either from the source code of a web application or by accessing and parsing specific files. I decided to automate this process by creating a script that would automate the task and speed up the process.
