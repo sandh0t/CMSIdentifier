@@ -6,7 +6,7 @@ This tool is designed to identify the full stack of a given URL or a list of URL
 
 # Screenshots
 
-![image](img/1.png)
+![image](./img/1.png)
 
 
 
@@ -63,7 +63,7 @@ Before developing this tool, I researched different techniques for identifying C
 
 The development of this tool was also motivated by the desire to provide the ability to export the results in an Excel format file, a feature that was not available in any other similar tools at the time.
 
-![image](img/2.png)
+
 
 
 
