@@ -31,7 +31,6 @@ To scan a single URL
 
 ```
 python2 cms_identifier_v2.0.py -u http://target.com
-
 ```
 
 To scan a list of URLs
@@ -45,14 +44,12 @@ To scan a list of URLs, and save to a normal Output
 
 ```
 python2 cms_identifier_v2.0.py -l targets.txt -o results.txt
-
 ```
 
 To scan a list of URLs, and save to an Excel file
 
 ```
 python2 cms_identifier_v2.0.py -l targets.txt -x
-
 ```
 
 
